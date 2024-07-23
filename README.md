@@ -1,5 +1,8 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Для запуска проекта:
+1) Скачайте файл любым доступным способом
+2) В папке проекта через консоль пропишите 'npm i' затем 'npm run dev'
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Данный проект сделан на основе библиотеки 'v-network-graph' так как она достаточно удобна и хорошо выполнена в плане дизайна.
+Так же используется CSS и JS фреймворк 'Bootstrap' для реализации красивой визуализации блоков
